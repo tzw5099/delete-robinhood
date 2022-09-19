@@ -4,7 +4,8 @@
 	<a href="https://reddit.com/r/exwallstreetbets">/r/exWallStreetBets</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="mailto:deleterobinhood@gmail.com">deleterobinhood@gmail.com</a>
 </p>
-[TOC]
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 <img src="misc/robinhood-slot-casino-gambling-machine.png" width="690">
 
