@@ -1,8 +1,34 @@
-on: push
-name: TOC Generator
+name: Run Tests
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
 jobs:
-  generateTOC:
-    name: TOC Generator
+  build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.7, 3.8, 3.9, "3.10"]
+
     steps:
-      - uses: technote-space/toc-generator@v4
+      - uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install '.[testing]'
+      - name: Run mypy
+        run: |
+          mypy ./browserexport
+      - name: Run pytest
+        run: |
+          pytest
+      - name: Run flake8
+        run: |
+          flake8 ./browserexport

@@ -4,24 +4,21 @@
 	<a href="https://reddit.com/r/exwallstreetbets">/r/exWallStreetBets</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="mailto:deleterobinhood@gmail.com">deleterobinhood@gmail.com</a>
 </p>
-<!-- START doctoc -->
-<!-- END doctoc -->
-
 <img src="misc/robinhood-slot-casino-gambling-machine.png" width="690">
 
 ## Contents
 
-- [research_papers](research_papers/README.md) - 20+ studies on ranging topics
+- [research_papers](research_papers/README.md) - 20+ studies
   - gambling (health destruction) - how destructive habits and well-being are formed from trading
   - market structures - how financial markets work
   - Robinhood (toxicity & regulation) - how Robinhood users lose money by design
   - WallStreetBets (retail) - how group psychology impacts individual prices and performance
 
-- [robinhood_loss_screenshots](robinhood_loss_screenshots/README.md) - 50+ images of losses from /r/wallstreetbets.
-  - [cropped_screenshots](robinhood_loss_screenshots/cropped_screenshots/README.md) - 30+ images of losses (cropped) /r/wallstreetbets
+- [robinhood_loss_screenshots](robinhood_loss_screenshots/README.md) - 50+ loss pr0ns from [wsb](https://reddit.com/r/wallstreetbets).
+  - [cropped_screenshots](robinhood_loss_screenshots/cropped_screenshots/README.md) - 30+ loss pr0ns (cropped)
 
 - [robinhood_ux_animations_screenshots](robinhood_ux_animations_screenshots/README.md) - gifs, mp4, and images of Robinhood's beautiful and play user interface.
-- everything else (below)
+- summary & everything else (below)
 
 
 
@@ -30,17 +27,13 @@
 - Only 3% of traders make money. 1.1% of them make more than minimum wage.  ([study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3423101))
 - Majority of "veteran traders" (3+ years) are those with persistent losses. ([study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535636))
 
-**Why are they still bad? Why haven't they quit?**  The answers lie in math and psychology.
+**Why are they still bad? Why haven't they quit?**  Math and psychology.
 
 No one goes into trading expecting to lose money and form an addiction. But that's what happens.
 
 
 
 <img src="misc/nassim-tweet.png" width="690">    
-
-
-
-There's 100K+ repos on [trading](https://github.com/search?q=trade&ref=opensearch) and [options](https://github.com/search?q=options). But how many warns you against so— even if we assume you have an edge?
 
 Let's say someone asks if you want to gamble.
 
