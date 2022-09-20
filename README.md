@@ -4,6 +4,22 @@
 	<a href="https://reddit.com/r/exwallstreetbets">/r/exWallStreetBets</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="mailto:deleterobinhood@gmail.com">deleterobinhood@gmail.com</a>
 </p>
+<<<<<<< HEAD
+=======
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Contents](#contents)
+- [~100% of traders are poor.](#100-of-traders-are-poor)
+- [You will fail.](#you-will-fail)
+- [Motivation: "Delete Robinhood?"](#motivation-delete-robinhood)
+- [Contribute](#contribute)
+- [Notes & FAQ](#notes--faq)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+>>>>>>> eb3afba65a861f1850a1f24052b50a60a735b08e
 <img src="misc/robinhood-slot-casino-gambling-machine.png" width="690">
 
 ## Contents
