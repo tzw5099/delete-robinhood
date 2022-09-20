@@ -7,7 +7,7 @@
 
 <img src="misc/robinhood-slot-casino-gambling-machine.png" width="690">
 
-<center><i>Feeling lucky, Robinhood user?</i></center>
+<p align="center"><i>Feeling lucky, Robinhood user?</i></p>
 
 Let's say someone asks if you want to gamble.
 
