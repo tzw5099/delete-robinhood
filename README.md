@@ -1,4 +1,4 @@
-<p align="center"><1>Delete Robinhood</h1></p>
+<p align="center"><h1>Delete Robinhood</h1></p>
 
 <p align="center">
 	<a href="https://reddit.com/r/exwallstreetbets">/r/exWallStreetBets</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
