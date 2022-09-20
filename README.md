@@ -1,4 +1,4 @@
-# Delete Robinhood
+<p align="center"><1>Delete Robinhood</h1></p>
 
 <p align="center">
 	<a href="https://reddit.com/r/exwallstreetbets">/r/exWallStreetBets</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <img src="misc/robinhood-slot-casino-gambling-machine.png" width="690">
 <p>
 <p align="center">
-<i>Feeling lucky, Robinhood user?</i></p>
+<i>Feeling lucky?</i></p>
 
 Let's say someone asks if you want to gamble.
 
