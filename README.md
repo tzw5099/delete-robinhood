@@ -50,7 +50,7 @@ No one goes into trading expecting to lose money and form an addiction. But that
 
 <img src="misc/nassim-tweet.png" width="690">
 
-Most Degen joke they gambling, but they really don't see it this way. Markets have a way of deceiving people to thinking they have an edge. The average ~~degen~~ trader makes 100s of trades each month. 720 trades/year is the minimum to be considered a daytrader. ([trader tax status](https://greentradertax.com/trader-tax-center/trader-tax-status/how-to-qualify/))
+Most Degen joke they are gambling, but they really don't see it this way. Markets have a way of deceiving people to thinking they have an edge. The average ~~degen~~ trader makes 100s of trades each month. 720 trades/year is the minimum to be considered a daytrader. ([trader tax status](https://greentradertax.com/trader-tax-center/trader-tax-status/how-to-qualify/))
 
 Each one of those trades are inherently slightly bad bets. (Your bid is unconditionally lower than the most favorable midpoint price.)
 
