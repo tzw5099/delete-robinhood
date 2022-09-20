@@ -4,52 +4,10 @@
 	<a href="https://reddit.com/r/exwallstreetbets">/r/exWallStreetBets</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="mailto:deleterobinhood@gmail.com">deleterobinhood@gmail.com</a>
 </p>
-<<<<<<< HEAD
-=======
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Contents](#contents)
-- [~100% of traders are poor.](#100-of-traders-are-poor)
-- [You will fail.](#you-will-fail)
-- [Motivation: "Delete Robinhood?"](#motivation-delete-robinhood)
-- [Contribute](#contribute)
-- [Notes & FAQ](#notes--faq)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
->>>>>>> eb3afba65a861f1850a1f24052b50a60a735b08e
 <img src="misc/robinhood-slot-casino-gambling-machine.png" width="690">
 
-## Contents
-
-- [research_papers](research_papers/README.md) - 20+ studies
-  - gambling (health destruction) - how destructive habits and well-being are formed from trading
-  - market structures - how financial markets work
-  - Robinhood (toxicity & regulation) - how Robinhood users lose money by design
-  - WallStreetBets (retail) - how group psychology impacts individual prices and performance
-
-- [robinhood_loss_screenshots](robinhood_loss_screenshots/README.md) - 50+ loss pr0ns from [wsb](https://reddit.com/r/wallstreetbets).
-  - [cropped_screenshots](robinhood_loss_screenshots/cropped_screenshots/README.md) - 30+ loss pr0ns (cropped)
-
-- [robinhood_ux_animations_screenshots](robinhood_ux_animations_screenshots/README.md) - gifs, mp4, and images of Robinhood's beautiful and play user interface.
-- summary & everything else (below)
-
-
-
-## ~100% of traders are poor.
-
-- Only 3% of traders make money. 1.1% of them make more than minimum wage.  ([study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3423101))
-- Majority of "veteran traders" (3+ years) are those with persistent losses. ([study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535636))
-
-**Why are they still bad? Why haven't they quit?**  Math and psychology.
-
-No one goes into trading expecting to lose money and form an addiction. But that's what happens.
-
-
-
-<img src="misc/nassim-tweet.png" width="690">    
+<center><i>Feeling lucky, Robinhood user?</i></center>
 
 Let's say someone asks if you want to gamble.
 
@@ -61,11 +19,35 @@ Let's say someone asks if you want to gamble.
 
 **See it for yourself.** The notebook included ([fall-of-genius-traders.ipynb](fall-of-genius-traders.ipynb)) makes the concept practical. Except it supposes you're a genius, as the example. 🎉
 
+## Contents
+
+- [research_papers](research_papers/README.md) - 20+ studies on ranging topics
+  - gambling (health destruction) - how destructive habits and well-being are formed from trading
+  - market structures - how financial markets work
+  - Robinhood (toxicity & regulation) - how Robinhood users lose money by design
+  - WallStreetBets (retail) - how group psychology impacts individual prices and performance
+- [robinhood_loss_screenshots](robinhood_loss_screenshots/README.md) - 50+ images of losses from /r/wallstreetbets.
+  - [cropped_screenshots](robinhood_loss_screenshots/cropped_screenshots/README.md) - 30+ images of losses (cropped) /r/wallstreetbets
+- [robinhood_ux_animations_screenshots](robinhood_ux_animations_screenshots/README.md) - gifs, mp4, and images of Robinhood's beautiful and play user interface.
+- everything else (below)
+
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+## ~100% of traders are poor.
+
+- Only 3% of traders make money. 1.1% of them make more than minimum wage.  ([study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3423101))
+- Majority of "veteran traders" (3+ years) are those with persistent losses. ([study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535636))
+
+**Why are they still bad? Why haven't they quit?**  The answers lie in math and psychology.
+
+No one goes into trading expecting to lose money and form an addiction. But that's what happens.
+
 ---
 
 ## You will fail.
 
-<img src="misc/daytraders-ruin.png" width="690">
+<img src="misc/nassim-tweet.png" width="690">
 
 Most Degen joke they gambling, but they really don't see it this way. Markets have a way of deceiving people to thinking they have an edge. The average ~~degen~~ trader makes 100s of trades each month. 720 trades/year is the minimum to be considered a daytrader. ([trader tax status](https://greentradertax.com/trader-tax-center/trader-tax-status/how-to-qualify/))
 
