@@ -1,13 +1,14 @@
-# Delete Robinhood
+<p align="center"><h1>Delete Robinhood</h1></p>
 
 <p align="center">
 	<a href="https://reddit.com/r/exwallstreetbets">/r/exWallStreetBets</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 	<a href="mailto:deleterobinhood@gmail.com">deleterobinhood@gmail.com</a>
 </p>
-
+<p align="center">
 <img src="misc/robinhood-slot-casino-gambling-machine.png" width="690">
-
-<center><i>Feeling lucky, Robinhood user?</i></center>
+<p>
+<p align="center">
+<i>Feeling lucky?</i></p>
 
 Let's say someone asks if you want to gamble.
 
@@ -17,7 +18,7 @@ Let's say someone asks if you want to gamble.
 
 **Should you play? No. Life is not a coin flip. If you're like 28% of humans, you will go bankrupt.** The mathematical fact for why is called the [Kelly Criterion](https://en.wikipedia.org/wiki/Kelly_criterion). But it's not intuitive.
 
-**See it for yourself.** The notebook included ([fall-of-genius-traders.ipynb](fall-of-genius-traders.ipynb)) makes the concept practical. Except it supposes you're a genius, as the example. 🎉
+The notebook included ([fall-of-genius-traders.ipynb](fall-of-genius-traders.ipynb)) makes the concept practical. Except it supposes you're a genius.
 
 ## Contents
 
